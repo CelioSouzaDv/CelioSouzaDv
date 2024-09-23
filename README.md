@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Célio Souza ✌🏽
-   No momento em encontro em situação de transição de carreira. Hoje eu atuo na área da Saúde em um Hospital <br/> no setor administrativo (sou Encarregado Administrativo) e nesses 3 anos de serviço desenvolvi algumas habilidades <br/> que acredito ser de grande importância em qualquer área de trabalho:  <br/>
-    -    Pensamento objetivo em resolução de problemas (mesmo em situações de pressão); <br/> 
-    -    Gestão de pessoas e equipes; <br/> 
-    -    Trabalho em Equipe. <br/> 
-    Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha <br/> capacidade e não vejo a hora de agregar positivamente na vida das pessoas e empresa na qual eu venha trabalhar. <br/> 
+<br>
    -    No momento estou estudando a linguagem C# com foco em ASPNet (backend); <br/>
    -    EntityFramework e Dapper; <br/>
    -    Curso de SQL - MySql/SQLServer; <br/> 
